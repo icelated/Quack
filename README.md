@@ -1,4 +1,4 @@
 Quack
 =====
 
-Queue and Stack combined
+Circular Queue and Stack combined
