@@ -49,7 +49,7 @@ int main (void)
 	_CrtSetDbgFlag ( _CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF );
 #endif
 
-	cout << "CS260 - Lab2 - Corey Mattis\n";
+	cout << "Corey Mattis\n";
 	cout << endl;
 	cout << q;
 	cout << endl;
